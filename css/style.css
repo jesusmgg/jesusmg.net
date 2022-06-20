@@ -1,0 +1,20 @@
+@import url("colors.css");
+
+body {
+  font-family: "Comic Neue", cursive;
+
+  font-weight: 400;
+
+  font-style: normal;
+  font-size: 14px;
+  margin: 0;
+  margin: 3em 4em 2em 4em;
+  margin: 3em auto 4em auto;
+  color: var(--text-primary-color);
+  background-color: var(--bg-color);
+  width: 720px;
+}
+
+a {
+    color: var(--accent-color);
+}
