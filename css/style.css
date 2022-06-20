@@ -26,7 +26,7 @@ a {
 
 .section {
   display: grid;
-  margin: 3em 0em;
+  margin: 0em 0em;
 }
 
 .game-image {
